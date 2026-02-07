@@ -24,5 +24,5 @@ def main(pred_path, test_nodes_path):
     print("VALID SUBMISSION")
 
 if __name__ == "__main__":
-    test_node_path = "../data/public/test_nodes.csv"
+    test_node_path = "data/public/test_nodes.csv"
     main(sys.argv[1], test_node_path)
