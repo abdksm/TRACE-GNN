@@ -1,0 +1,6 @@
+{
+    "team": "team1",
+    "run_id": "run_01",
+    "type": "llm",
+    "model": "GAT"
+}
